@@ -30,7 +30,7 @@ While keeping a futuristic look and feel, it strives to maintain a certain level
 
 <br>
 
-It might or might not be a joke taken too seriously.
+It might or might not be a joke taken too seriously. ?
 
 
 ---
